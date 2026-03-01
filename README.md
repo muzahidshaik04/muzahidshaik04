@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a84ff,100:ff0080&height=200&section=header&text=Shaik%20Muzahid&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Gen%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+that+makes+a+difference+%F0%9F%A4%96;Python+%7C+ML+%7C+NLP+%7C+LangChain+%7C+AWS;Open+to+Work+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+that+makes+a+difference+🤖;Python+%7C+ML+%7C+NLP+%7C+LangChain+%7C+AWS;Open+to+Work+✅)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,28 +20,31 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class ShaikMuzahid:
-    def __init__(self):
-        self.name        = "Shaik Muzahid"
-        self.role        = "Data Scientist & Gen AI Engineer"
-        self.location    = "Hyderabad, Telangana, India 🇮🇳"
-        self.education   = "B.Tech ECE — P.V.K.K. Institute of Technology (2024)"
-        self.experience  = ["Innomatics Research Labs (Gen AI Intern)",
-                            "Cognifyz Technologies (Data Science Intern)"]
-        self.skills      = ["Python", "ML", "Deep Learning", "NLP",
-                            "Generative AI", "LangChain", "AWS", "MLOps"]
-        self.currently   = "Building AI-powered applications 🚀"
-        self.open_to     = "Data Science | Gen AI | MLOps roles ✅"
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing with AI!")
+👋 **Hi, I'm Shaik Muzahid!**
 
-me = ShaikMuzahid()
-me.say_hi()
-```
+🎓 B.Tech ECE Graduate from **P.V.K.K. Institute of Technology** (2024)
 
-<br/>
+💼 Currently working as **Gen AI Intern** at **Innomatics Research Labs**
+
+🚀 Passionate about building **AI-powered applications** that solve real problems
+
+🔭 I work on **Machine Learning**, **NLP**, **Generative AI** and **LLM** projects
+
+🌱 Skilled in **LangChain**, **Google Gemini**, **AWS EC2** and **MLOps**
+
+⚡ Transitioned from **ECE → Data Science & Gen AI** in just 1 year!
+
+✅ **Open to Work** — Looking for roles in Data Science | Gen AI | MLOps
+
+📍 Based in **Hyderabad, Telangana, India 🇮🇳**
+
+📫 Reach me at **muzahidshaik04@gmail.com**
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +83,6 @@ me.say_hi()
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools**
 
@@ -90,7 +92,7 @@ me.say_hi()
 
 </div>
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -109,7 +111,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🛒 Flipkart Sentiment Analysis
-> NLP-based sentiment classification model analyzing Flipkart customer reviews with TF-IDF vectorization
+> NLP-based sentiment classification analyzing Flipkart customer reviews with TF-IDF vectorization
 
 **Tech:** `NLP` `TF-IDF` `Scikit-Learn` `Streamlit`
 
@@ -121,7 +123,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🧠 Adaptive DS AI Mentor
-> Agentic AI mentor with context memory that adapts difficulty based on user experience level in real time
+> Agentic AI mentor with context memory that adapts difficulty based on user experience in real time
 
 **Tech:** `LangChain` `Google Gemini` `Streamlit` `Python`
 
@@ -131,7 +133,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### ⚙️ Sentiment MLFlow Experiments
-> End-to-end MLOps pipeline with MLFlow experiment tracking, model versioning and AWS deployment automation
+> End-to-end MLOps pipeline with experiment tracking, model versioning and AWS deployment automation
 
 **Tech:** `MLOps` `MLFlow` `AWS EC2` `Python`
 
@@ -163,7 +165,7 @@ me.say_hi()
 </tr>
 </table>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
@@ -179,13 +181,11 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzahidshaik04&theme=react-dark&bg_color=010c1e&color=00e5ff&line=0a84ff&point=ff0080&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br/>
-
+---
 
 ## 🤝 Connect With Me
 
@@ -207,17 +207,12 @@ me.say_hi()
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:0a84ff,100:00e5ff&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *⭐ If you find my work interesting, consider starring my repositories!*
 
 **"From ECE Graduate to Gen AI Engineer — Building AI that matters 🚀"**
-
-</div>
